@@ -2,6 +2,10 @@
 
 # 安装和运行
 ~~~
+// 进入目录
+cd personal-blog
+cd my-blog
+
 // 安装依赖dependencies
 npm install
 
