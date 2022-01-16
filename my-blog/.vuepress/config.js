@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "Yekit's blog",
-  "description": "just a try",
+  "title": "Yekit's Blog",
+  "description": "记录生活",
   "dest": "public",
   "head": [
     [
@@ -39,7 +39,7 @@ module.exports = {
       {
         "text": "关于我",
         "icon": "reco-eye",
-        "link": "/docs/tools/"
+        "link": "/docs/aboutme/"
       },
       {
         "text": "联系",
@@ -101,7 +101,7 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "Yekit",
-    "authorAvatar": "/logo.png",
+    "authorAvatar": "/avatar.jpg",
     "record": "记录生活",// 备案号
     "startYear": "2022"
   },
@@ -128,7 +128,25 @@ module.exports = {
             name: 'Numb',
             artist: 'Before You Exit/Lash',
             url: '/bgm/Numb-Before You Exit  Lash.mp3',
-            cover: '/bgm/Numb-Before You Exit  Lash.jpg'
+            cover: '/bgm/Numb.jpg'
+          },
+          {
+            name: 'Robbers',
+            artist: 'The 1975',
+            url: '/bgm/The 1975 - Robbers.flac',
+            cover: '/bgm/Robbers.jpg'
+          },
+          {
+            name: 'Choose To Believe',
+            artist: 'RØYLS',
+            url: '/bgm/Choose to believe.mp3',
+            cover: '/bgm/Choose_to_believe.jpg'
+          },
+          {
+            name: 'My Type',
+            artist: 'The Chainsmokers / Emily Warren',
+            url: '/bgm/My Type.mp3',
+            cover: '/bgm/My_Type.jpg'
           }
         ],
         position: [
