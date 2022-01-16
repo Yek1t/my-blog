@@ -155,7 +155,10 @@ module.exports = {
             bottom: '10px',
             'z-index': '999999'
           }
-        ]
+        ],
+        autoplay: true,
+        autoShrink: true,
+        shrinkMode: 'mini'
 
       }
     ]
